@@ -1,0 +1,17 @@
+{
+  "plantuml.render": "PlantUMLServer",
+  "plantuml.server": "http://localhost:8003",
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "cSpell.words": [
+    "createsuperuser",
+    "djoser",
+    "dockercompose",
+    "hookform",
+    "makemigrations",
+    "reduxjs",
+    "RESTAPI",
+    "tailwindcss",
+    "viewsets"
+  ]
+}
